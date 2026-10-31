@@ -1,4 +1,4 @@
-# Hi, I'm Soeung Ratha! 
+# Hi, I'm Soeung Ratha
 
 ##  Certifications & Digital Badges
 
