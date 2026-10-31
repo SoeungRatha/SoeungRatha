@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Soeung Ratha! 
+
+##  Certifications & Digital Badges
+
+* **English for Career Development** — [View Credential Badge](https://badges.parchment.com/public/assertions/CPMEsr-tQkWsQoYClI_N7w)
 
 <!--
 **SoeungRatha/SoeungRatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
